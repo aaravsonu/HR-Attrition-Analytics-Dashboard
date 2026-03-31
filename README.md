@@ -27,7 +27,7 @@ Interactive visuals
 
 
 📸 Dashboard Preview
-👉 (We will add image here in next step)
+👉 (![Dashboard](HrAnalyticsDashboard.jpg)
 
 
 📁 Project Files
